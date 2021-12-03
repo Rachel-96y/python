@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"棋子个数"</Description>
+      <LastState Value="110" RealAddress="00184DC0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00184DC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"棋子个数"</Description>
+      <LastState Value="110" RealAddress="0019C71C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0019C71C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
